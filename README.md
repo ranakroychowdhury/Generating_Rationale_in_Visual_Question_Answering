@@ -1,4 +1,4 @@
-# Genrating_Rationale_in_Visual_Question_Answering
+# Generating_Rationale_in_Visual_Question_Answering
 
 The objective of this task is to predict an answer and a rationale behind that answer given an image, a question and a set of multiple choice options. In the Computer Vision literature, the task of choosing the right answer from a set of options, given a question and an image, is know as Visual Question Answering (VQA). There has been some current work on trying to choose the rationale behind choosing an answer given a set of rationales to choose from. The novelty of our task lies in the fact that it further asks the model to provide a rational to justify the answer it predicted. This makes the task more interesting and concurrently more difficult. We build on this task to try to generate the rationale instead of choosing the rationale from a given set of options.
  
